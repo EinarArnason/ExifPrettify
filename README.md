@@ -1,5 +1,7 @@
 # ExifPrettify
 
+An iOS and Android app to quickly extract key camera information from image exif data and format string to copy to social media posts
+
 ## Privacy Policy
 
 We do not collect, use, save or have access to any of your personal data recorded in Exif Prettify in iOS or Android.
